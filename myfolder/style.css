@@ -1,0 +1,87 @@
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	background-image: url("images/tablecloth.jpeg");
+	background-size: 1000px;
+	text-align: center;
+	font-family: sans-serif;
+
+}
+H1{
+	font-size: 30px;
+}
+img{
+	width: 200px;
+	
+}
+a{
+	background:#b70000bd;
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+	padding: 20px;
+}
+a:hover{
+	background: yellow;
+	color: black;
+}
+p{
+	line-height: 50px;
+}
+H2{
+	line-height: 30px;
+}
+UL{
+	line-height: 100px;
+	display: inline-flex;
+	list-style: none;
+}
+div{
+	border-radius: 25px;
+	box-shadow: 10px 10px 30px rgba(0,0,0,0.2);
+	text-align: center;
+	margin: 20px auto;
+}
+
+
+.entete{
+	background-color: white;
+	padding: 40px;
+	
+
+}
+.pastis{
+	background-color: white;
+	padding: 40px;
+	
+}
+.fete{
+	background-color: white;
+	padding: 40px;
+	
+}
+.miam{
+	background-color: white;
+	padding: 40px;
+	
+}
+.fournisseurs{
+	background-color: white;
+	padding: 40px;
+	
+}
+.box{
+	margin: 20px;
+	justify-content: space-evenly;	
+}
+.pprofil{
+	border-radius: 50px;
+	width: 150px;
+}
+.container{
+	max-width: 800px;
+	width: auto;
+}
